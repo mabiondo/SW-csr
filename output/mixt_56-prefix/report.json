@@ -1,0 +1,38 @@
+{
+  "warnings" : [ ],
+  "files" : [ "_[]int_main.bogosort([]int_arr)_-2027368586.html", "bool_main.anonymousFunction0()_-451327410.html", "js/cose-base.js", "js/cytoscape-3.21.1.min.js", "js/cytoscape-expand-collapse.js", "js/cytoscape-fcose.js", "js/cytoscape-graphml-1.0.6-hier.js", "js/jquery-3.0.0.min.js", "js/layout-base.js", "report.json", "untyped_main.main().html" ],
+  "info" : {
+    "cfgs" : "3",
+    "duration" : "1s 442ms",
+    "end" : "2024-08-06T16:27:58.227+02:00",
+    "expressions" : "84",
+    "files" : "10",
+    "globals" : "0",
+    "members" : "30",
+    "programs" : "1",
+    "start" : "2024-08-06T16:27:56.785+02:00",
+    "statements" : "34",
+    "units" : "4",
+    "version" : "0.1b9",
+    "warnings" : "0"
+  },
+  "configuration" : {
+    "analysisGraphs" : "HTML_WITH_SUBNODES",
+    "descendingPhaseType" : "NONE",
+    "dumpForcesUnwinding" : "false",
+    "fixpointWorkingSet" : "DuplicateFreeFIFOWorkingSet",
+    "glbThreshold" : "5",
+    "hotspots" : "unset",
+    "jsonOutput" : "true",
+    "openCallPolicy" : "RelaxedOpenCallPolicy",
+    "optimize" : "false",
+    "recursionWideningThreshold" : "5",
+    "semanticChecks" : "",
+    "serializeInputs" : "false",
+    "serializeResults" : "false",
+    "syntacticChecks" : "",
+    "useWideningPoints" : "true",
+    "wideningThreshold" : "5",
+    "workdir" : "./output/mixt_56-prefix"
+  }
+}
